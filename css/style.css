@@ -1,0 +1,103 @@
+
+:root{
+	--bg-body: #F8F9FB;
+	--color-azul: #00ACB2;
+}
+body{
+	font-family: 'Segoe UI';
+	font-size: 14px;
+	background-color: var(--bg-body);
+	color: #333;
+}
+h1,h2,h3,h4,h5,h6{
+	color: var(--color-titulos);
+}
+
+
+
+header{
+	background-color: var(--bg-body);
+	/*box-shadow: 0px 0px 5px 3px #eee;*/
+}
+
+footer{
+	background-color: var(--bg-body);
+	color: #333;
+	padding: 30px 0;
+	text-align: center;
+}
+
+ .our-classes {
+    padding-top: 20px;
+  }
+
+  .class-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px 0;
+  }
+
+  .class-column {
+    flex: 0 0 calc(33.33% - 20px);
+    margin: 10px;
+    text-align: center;
+  }
+
+  .class-card {
+    border: 1px solid #DDD;
+    padding: 15px;
+    background-color: #FFF;
+  }
+
+  .class-card img {
+    max-width: 100%;
+    height: auto;
+    max-height: 100px;
+  }
+
+ .cta-button {
+    background-color: #f74f4c;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+
+  .cta-icon {
+    font-size: 24px;
+    margin-right: 10px;
+  }
+
+  .arrow-image {
+    max-width: 100%;
+  }
+
+  .cta-text {
+    color: #ffffff;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
